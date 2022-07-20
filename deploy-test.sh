@@ -1,0 +1,1 @@
+docker build -t ecs-demo:taskrole-test . && docker tag ecs-demo:taskrole-test exit21sb/ecs-demo:taskrole-test && docker push exit21sb/ecs-demo:taskrole-test
